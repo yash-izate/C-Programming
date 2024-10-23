@@ -35,6 +35,6 @@
 #include <stdio.h>
 int main()
 {
-  printf("%d", printf("%d\n", 1) +1);
+  printf("%d", printf("%d \n", 1) +1);
   return 0;
 }
