@@ -32,9 +32,29 @@
 // }
 
 
+// #include <stdio.h>
+// int main()
+// {
+//   printf("%d", printf("%d \n", 1) +1);
+//   return 0;
+// }
+
+// #include <stdio.h>
+// void main()
+// {
+//   char var = 'A';
+//   ++var;
+//   printf("%c", var);
+  
+// }
+
+
 #include <stdio.h>
-int main()
+void main()
 {
-  printf("%d", printf("%d \n", 1) +1);
-  return 0;
+  int a =3, b=2;
+  a=a==b==0;
+
+  printf("%d,%d", a,b);
+  
 }
