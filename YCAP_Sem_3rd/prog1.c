@@ -1,3 +1,18 @@
+// Name: Yash Manoj Izate
+// Roll No. 61
+
+// #include <stdio.h>
+// void main()
+// {
+//   int a =3, b=2;
+//   a=a==b==0;
+
+//   printf("%d,%d", a,b);
+  
+// }
+
+
+
 // #include <stdio.h>
 
 // int main() {
@@ -31,13 +46,15 @@
 //   printf("%d", a);
 // }
 
-
 // #include <stdio.h>
 // int main()
 // {
 //   printf("%d", printf("%d \n", 1) +1);
 //   return 0;
 // }
+
+
+
 
 // #include <stdio.h>
 // void main()
@@ -47,14 +64,3 @@
 //   printf("%c", var);
   
 // }
-
-
-#include <stdio.h>
-void main()
-{
-  int a =3, b=2;
-  a=a==b==0;
-
-  printf("%d,%d", a,b);
-  
-}
